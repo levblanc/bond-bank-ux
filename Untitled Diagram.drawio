@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T10:12:56.821Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8tTDuNcAO0A_VwNBKJwM" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-13T10:16:43.816Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JUaruUuPjOz5IZhbfzdM" version="20.5.3" type="github" pages="4">
   <diagram id="QquSQjb1tt5OXJuJXW4R" name="Page-1">
     <mxGraphModel dx="1711" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -498,6 +498,18 @@
         </mxCell>
         <mxCell id="DyjpL2RpveVtA3N1k_iX-3" value="wallet address" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="600" y="1405" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DyjpL2RpveVtA3N1k_iX-4" value="If time&#39;s not allowed, just ALWAYS show the Create Bond button. &lt;br&gt;&lt;br&gt;This way we can ignore the admin/normal user separation logic" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1290" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DyjpL2RpveVtA3N1k_iX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#999999;" edge="1" parent="1" source="IpqPK8BsHVQbzXbYYs8c-97" target="DyjpL2RpveVtA3N1k_iX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="1370" />
+              <mxPoint x="505" y="1370" />
+              <mxPoint x="505" y="1320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

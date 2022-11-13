@@ -12,8 +12,10 @@
 
    <img width="617" alt="image" src="https://user-images.githubusercontent.com/4057887/201502891-1aa17214-ce60-4d35-a88b-f35cef680e24.png">
 
-5. Click on "List View" at the bottom
+5. Select "Untitled Diagram.drawio" from the repo you cloned
+
+6. Click on "List View" at the bottom
 
    <img width="1981" alt="image" src="https://user-images.githubusercontent.com/4057887/201502948-bf37b02d-03b4-4d54-93c9-f3c8775bbc7d.png">
 
-6. Feel free to copy & paste to your own diagram
+7. Feel free to copy & paste to your own diagram

@@ -1,0 +1,496 @@
+<mxfile host="app.diagrams.net" modified="2022-11-13T02:32:45.157Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="pxEJm-dBSf570WLqVyg4" version="20.5.3" type="github" pages="4">
+  <diagram id="QquSQjb1tt5OXJuJXW4R" name="Page-1">
+    <mxGraphModel dx="1711" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="70" width="650" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-3" value="BondBack" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="120" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-4" value="About" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="370" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-5" value="Home" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="130" as="sourcePoint" />
+            <mxPoint x="400" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-9" value="&lt;p style=&quot;box-sizing: border-box; line-height: 1; margin: 2rem 0px; font-size: 14px;&quot;&gt;&lt;/p&gt;&lt;h2 style=&quot;text-align: center;&quot;&gt;Welcome to BondBank App&lt;/h2&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Its enables asset managers to create different bonds using token DAI, ETH, BTC, AVAX for now!.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;this beta app is created for Chainlink hackathon 2022&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="185" y="140" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-10" value="connect to wallet" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;strokeColor=#4D4D4D;" parent="1" vertex="1">
+          <mxGeometry x="365" y="270" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="445" y="360" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="185" y="360" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-15" value="Login Section" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="450" y="370" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-16" value="Create Bond" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=9;" parent="1" vertex="1">
+          <mxGeometry x="460" y="420" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-17" value="Buy Bond" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=9;" parent="1" vertex="1">
+          <mxGeometry x="560" y="420" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Registration Section&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="190" y="370" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-19" value="Admin Registration" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=9;" parent="1" vertex="1">
+          <mxGeometry x="200" y="420" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WkgJLVqgmc7-84QVUV9-20" value="User Registration" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=9;" parent="1" vertex="1">
+          <mxGeometry x="290" y="420" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XEkm2pGqBAyJZRhMwVC5" name="Register">
+    <mxGraphModel dx="2139" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lgg5QNjBo9mLu_WJ3kGY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="60" width="650" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Lgg5QNjBo9mLu_WJ3kGY-2" value="BondBack" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="120" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lgg5QNjBo9mLu_WJ3kGY-3" value="About" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="370" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lgg5QNjBo9mLu_WJ3kGY-4" value="Home" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lgg5QNjBo9mLu_WJ3kGY-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140.00000000000023" y="130" as="sourcePoint" />
+            <mxPoint x="400.0000000000002" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lgg5QNjBo9mLu_WJ3kGY-6" value="&lt;p style=&quot;box-sizing: border-box; line-height: 1; margin: 2rem 0px; font-size: 14px;&quot;&gt;&lt;/p&gt;&lt;h2 style=&quot;text-align: center;&quot;&gt;Welcome to BondBank App&lt;/h2&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Its enables asset managers to create different bonds using token DAI, ETH, BTC, AVAX for now!.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;this beta app is created for Chainlink hackathon 2022&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="185" y="140" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Lgg5QNjBo9mLu_WJ3kGY-7" value="connect to wallet" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;strokeColor=#4D4D4D;" parent="1" vertex="1">
+          <mxGeometry x="365" y="270" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lgg5QNjBo9mLu_WJ3kGY-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="315" y="340" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Lgg5QNjBo9mLu_WJ3kGY-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Registration Section&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="350" y="350" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lgg5QNjBo9mLu_WJ3kGY-14" value="Admin Registration" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=9;" parent="1" vertex="1">
+          <mxGeometry x="330" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lgg5QNjBo9mLu_WJ3kGY-15" value="User Registration" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=9;" parent="1" vertex="1">
+          <mxGeometry x="430" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DXYBPZBJV1XNJ0QDBufv" name="Logged In">
+    <mxGraphModel dx="2139" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JkfybvyTEZZZ1QiHV0u3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="60" width="650" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="JkfybvyTEZZZ1QiHV0u3-2" value="BondBack" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="120" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JkfybvyTEZZZ1QiHV0u3-3" value="About" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="370" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JkfybvyTEZZZ1QiHV0u3-4" value="Home" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JkfybvyTEZZZ1QiHV0u3-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140.00000000000023" y="130" as="sourcePoint" />
+            <mxPoint x="400.0000000000002" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JkfybvyTEZZZ1QiHV0u3-6" value="&lt;p style=&quot;box-sizing: border-box; line-height: 1; margin: 2rem 0px; font-size: 14px;&quot;&gt;&lt;/p&gt;&lt;h2 style=&quot;text-align: center;&quot;&gt;Welcome to BondBank App&lt;/h2&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Its enables asset managers to create different bonds using token DAI, ETH, BTC, AVAX for now!.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;this beta app is created for Chainlink hackathon 2022&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="185" y="140" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JkfybvyTEZZZ1QiHV0u3-7" value="connect to wallet" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;strokeColor=#4D4D4D;" parent="1" vertex="1">
+          <mxGeometry x="365" y="270" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rZhNoyQhlwqZSoeUdj5N-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="320" y="340" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rZhNoyQhlwqZSoeUdj5N-2" value="Login Section" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="375" y="360" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rZhNoyQhlwqZSoeUdj5N-3" value="Create Bond" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=9;" parent="1" vertex="1">
+          <mxGeometry x="335" y="400" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rZhNoyQhlwqZSoeUdj5N-4" value="Buy Bond" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=9;" parent="1" vertex="1">
+          <mxGeometry x="435" y="400" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AQX7kZ4qjj0ybGX861nI" name="List View">
+    <mxGraphModel dx="1222" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="60" width="650" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-2" value="BondBack" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="120" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140.00000000000023" y="130" as="sourcePoint" />
+            <mxPoint x="400.0000000000002" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-6" value="&lt;p style=&quot;box-sizing: border-box; line-height: 1; margin: 2rem 0px; font-size: 14px;&quot;&gt;&lt;/p&gt;&lt;h2 style=&quot;text-align: center;&quot;&gt;Welcome to BondBank App&lt;/h2&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Its enables asset managers to create different bonds using token DAI, ETH, BTC, AVAX for now!.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;this beta app is created for Chainlink hackathon 2022&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="185" y="230" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-7" value="connect to wallet" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;strokeColor=#4D4D4D;" parent="1" vertex="1">
+          <mxGeometry x="365" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-12" value="connect to wallet" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeColor=#4D4D4D;" parent="1" vertex="1">
+          <mxGeometry x="600" y="95" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="90" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-3" value="About" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-2">
+          <mxGeometry x="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-4" value="Home" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-2">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1380" width="650" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-53" value="BondBack" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="1400" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140.00000000000045" y="1440" as="sourcePoint" />
+            <mxPoint x="400.0000000000002" y="1440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-94" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="1400" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-95" value="About" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-94">
+          <mxGeometry x="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-96" value="Home" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=0" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-94">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-97" value="Create Bond" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-94">
+          <mxGeometry x="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-98" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Home page - wallet not connect&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-10" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-99" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Home page - wallet connected&lt;br&gt;user role: normal user&lt;br&gt;show bond list, no create bond option&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="620" width="385" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-100" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="710" width="650" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="IpqPK8BsHVQbzXbYYs8c-100" vertex="1">
+          <mxGeometry width="650" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-21" value="BondBack" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontStyle=1" parent="IpqPK8BsHVQbzXbYYs8c-100" vertex="1">
+          <mxGeometry x="20" y="20" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-24" value="" style="endArrow=none;html=1;rounded=0;" parent="IpqPK8BsHVQbzXbYYs8c-100" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40.00000000000023" y="60" as="sourcePoint" />
+            <mxPoint x="300.0000000000002" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-61" value="" style="group" parent="IpqPK8BsHVQbzXbYYs8c-100" vertex="1" connectable="0">
+          <mxGeometry x="45" y="240" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-62" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=7;" parent="5MLpOdwgMS6iXqpnvcfN-61" vertex="1">
+          <mxGeometry width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-63" value="1. Bond 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;" parent="5MLpOdwgMS6iXqpnvcfN-61" vertex="1">
+          <mxGeometry x="10" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-64" value="bond details ..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#808080;" parent="5MLpOdwgMS6iXqpnvcfN-61" vertex="1">
+          <mxGeometry x="100" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-65" value="&lt;font color=&quot;#000000&quot;&gt;Buy&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;arcSize=22;fillColor=#dae8fc;" parent="5MLpOdwgMS6iXqpnvcfN-61" vertex="1">
+          <mxGeometry x="470" y="10" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-66" value="" style="group" parent="IpqPK8BsHVQbzXbYYs8c-100" vertex="1" connectable="0">
+          <mxGeometry x="45" y="300" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-67" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=7;" parent="5MLpOdwgMS6iXqpnvcfN-66" vertex="1">
+          <mxGeometry width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-68" value="1. Bond 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;" parent="5MLpOdwgMS6iXqpnvcfN-66" vertex="1">
+          <mxGeometry x="10" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-69" value="bond details ..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#808080;" parent="5MLpOdwgMS6iXqpnvcfN-66" vertex="1">
+          <mxGeometry x="100" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-70" value="&lt;font color=&quot;#000000&quot;&gt;Buy&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;arcSize=22;fillColor=#dae8fc;" parent="5MLpOdwgMS6iXqpnvcfN-66" vertex="1">
+          <mxGeometry x="470" y="10" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-71" value="" style="group" parent="IpqPK8BsHVQbzXbYYs8c-100" vertex="1" connectable="0">
+          <mxGeometry x="45" y="360" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-72" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=7;" parent="5MLpOdwgMS6iXqpnvcfN-71" vertex="1">
+          <mxGeometry width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-73" value="1. Bond 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;" parent="5MLpOdwgMS6iXqpnvcfN-71" vertex="1">
+          <mxGeometry x="10" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-74" value="bond details ..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#808080;" parent="5MLpOdwgMS6iXqpnvcfN-71" vertex="1">
+          <mxGeometry x="100" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-75" value="&lt;font color=&quot;#000000&quot;&gt;Redeem&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;arcSize=22;fillColor=#d5e8d4;" parent="5MLpOdwgMS6iXqpnvcfN-71" vertex="1">
+          <mxGeometry x="470" y="10" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-76" value="" style="group" parent="IpqPK8BsHVQbzXbYYs8c-100" vertex="1" connectable="0">
+          <mxGeometry x="45" y="420" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-77" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=7;" parent="5MLpOdwgMS6iXqpnvcfN-76" vertex="1">
+          <mxGeometry width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-78" value="1. Bond 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;" parent="5MLpOdwgMS6iXqpnvcfN-76" vertex="1">
+          <mxGeometry x="10" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-79" value="bond details ..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#808080;" parent="5MLpOdwgMS6iXqpnvcfN-76" vertex="1">
+          <mxGeometry x="100" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-80" value="&lt;font color=&quot;#000000&quot;&gt;Buy&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;arcSize=22;fillColor=#dae8fc;" parent="5MLpOdwgMS6iXqpnvcfN-76" vertex="1">
+          <mxGeometry x="470" y="10" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-82" value="" style="group" parent="IpqPK8BsHVQbzXbYYs8c-100" vertex="1" connectable="0">
+          <mxGeometry x="45" y="180" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-83" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=7;" parent="5MLpOdwgMS6iXqpnvcfN-82" vertex="1">
+          <mxGeometry width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-84" value="1. Bond 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;" parent="5MLpOdwgMS6iXqpnvcfN-82" vertex="1">
+          <mxGeometry x="10" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-85" value="bond details ..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#808080;" parent="5MLpOdwgMS6iXqpnvcfN-82" vertex="1">
+          <mxGeometry x="100" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-86" value="&lt;font color=&quot;#000000&quot;&gt;Redeem&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;arcSize=22;fillColor=#d5e8d4;" parent="5MLpOdwgMS6iXqpnvcfN-82" vertex="1">
+          <mxGeometry x="470" y="10" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-87" value="" style="group" parent="IpqPK8BsHVQbzXbYYs8c-100" vertex="1" connectable="0">
+          <mxGeometry x="45" y="120" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-88" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=7;" parent="5MLpOdwgMS6iXqpnvcfN-87" vertex="1">
+          <mxGeometry width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-89" value="1. Bond 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;" parent="5MLpOdwgMS6iXqpnvcfN-87" vertex="1">
+          <mxGeometry x="10" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-90" value="bond details ..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#808080;" parent="5MLpOdwgMS6iXqpnvcfN-87" vertex="1">
+          <mxGeometry x="100" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-91" value="&lt;font color=&quot;#000000&quot;&gt;Buy&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;arcSize=22;fillColor=#dae8fc;" parent="5MLpOdwgMS6iXqpnvcfN-87" vertex="1">
+          <mxGeometry x="470" y="10" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="e-c6O9BROIbkn8KTy4ro-1" value="" style="group" vertex="1" connectable="0" parent="IpqPK8BsHVQbzXbYYs8c-100">
+          <mxGeometry x="270" y="490" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-93" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="e-c6O9BROIbkn8KTy4ro-1" vertex="1">
+          <mxGeometry width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-94" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeColor=#666666;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" parent="e-c6O9BROIbkn8KTy4ro-1" vertex="1">
+          <mxGeometry x="30" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-96" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeColor=#666666;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" parent="e-c6O9BROIbkn8KTy4ro-1" vertex="1">
+          <mxGeometry x="90" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-97" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeColor=#666666;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" parent="e-c6O9BROIbkn8KTy4ro-1" vertex="1">
+          <mxGeometry x="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e-c6O9BROIbkn8KTy4ro-6" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" connectable="0" parent="IpqPK8BsHVQbzXbYYs8c-100">
+          <mxGeometry x="45" y="80" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e-c6O9BROIbkn8KTy4ro-7" value="" style="group" vertex="1" connectable="0" parent="IpqPK8BsHVQbzXbYYs8c-100">
+          <mxGeometry x="45" y="80" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e-c6O9BROIbkn8KTy4ro-3" value="All Bonds" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="e-c6O9BROIbkn8KTy4ro-7">
+          <mxGeometry width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e-c6O9BROIbkn8KTy4ro-4" value="My Bonds" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="e-c6O9BROIbkn8KTy4ro-7">
+          <mxGeometry x="75" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-1" value="" style="group" vertex="1" connectable="0" parent="IpqPK8BsHVQbzXbYYs8c-100">
+          <mxGeometry x="180" y="20" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-22" value="About" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="IpqPK8BsHVQbzXbYYs8c-1" vertex="1">
+          <mxGeometry x="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MLpOdwgMS6iXqpnvcfN-23" value="Home" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" parent="IpqPK8BsHVQbzXbYYs8c-1" vertex="1">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eC6HQzFBZk6bbT0s4ifH-1" value="&lt;font&gt;earnings?&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=Helvetica;fontSize=12;fontColor=#999999;fillColor=#f5f5f5;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-100">
+          <mxGeometry x="350" y="20" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-101" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="780" y="710" width="650" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-101">
+          <mxGeometry width="650" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-7" value="BondBack" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontStyle=1" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-101">
+          <mxGeometry x="20" y="20" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="IpqPK8BsHVQbzXbYYs8c-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40.000000000000455" y="60" as="sourcePoint" />
+            <mxPoint x="300.0000000000002" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-19" value="" style="group" vertex="1" connectable="0" parent="IpqPK8BsHVQbzXbYYs8c-101">
+          <mxGeometry x="45" y="180" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-20" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=7;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-19">
+          <mxGeometry width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-21" value="1. Bond 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-19">
+          <mxGeometry x="10" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-22" value="bond details ..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#808080;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-19">
+          <mxGeometry x="100" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-23" value="&lt;font color=&quot;#000000&quot;&gt;Redeem&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;arcSize=22;fillColor=#d5e8d4;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-19">
+          <mxGeometry x="470" y="10" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-29" value="" style="group" vertex="1" connectable="0" parent="IpqPK8BsHVQbzXbYYs8c-101">
+          <mxGeometry x="45" y="120" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontFamily=Helvetica;fontSize=12;arcSize=7;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-29">
+          <mxGeometry width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-31" value="1. Bond 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-29">
+          <mxGeometry x="10" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-32" value="bond details ..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#808080;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-29">
+          <mxGeometry x="100" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-33" value="&lt;font color=&quot;#000000&quot;&gt;Redeem&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;arcSize=22;fillColor=#d5e8d4;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-29">
+          <mxGeometry x="470" y="10" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-44" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" connectable="0" parent="IpqPK8BsHVQbzXbYYs8c-101">
+          <mxGeometry x="45" y="80" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-45" value="" style="group" vertex="1" connectable="0" parent="IpqPK8BsHVQbzXbYYs8c-101">
+          <mxGeometry x="45" y="80" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-46" value="All Bonds" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-45">
+          <mxGeometry width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-47" value="My Bonds" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-45">
+          <mxGeometry x="75" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-48" value="" style="group" vertex="1" connectable="0" parent="IpqPK8BsHVQbzXbYYs8c-101">
+          <mxGeometry x="180" y="20" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-49" value="About" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-48">
+          <mxGeometry x="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-50" value="Home" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-48">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-102" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Create bond - pending logic clarification&lt;br&gt;user role: admin&lt;br&gt;show bond list + create bond button&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1290" width="385" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-105" value="" style="group;align=left;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="1550" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-103" value="&lt;font color=&quot;#999999&quot;&gt;input bond name&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=14;fontColor=#000000;arcSize=11;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-105">
+          <mxGeometry x="140" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-104" value="Bond Name" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=left;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-105">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-106" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="1610" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-107" value="&lt;font color=&quot;#999999&quot;&gt;input bond name&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=14;fontColor=#000000;arcSize=11;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-106">
+          <mxGeometry x="140" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-108" value="Mature duration" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=left;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-106">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-109" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="1670" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-110" value="&lt;font color=&quot;#999999&quot;&gt;input bond name&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=14;fontColor=#000000;arcSize=11;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-109">
+          <mxGeometry x="140" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-111" value="Profits" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=left;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-109">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-112" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="1730" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-113" value="&lt;font color=&quot;#999999&quot;&gt;input bond name&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#808080;fontFamily=Helvetica;fontSize=14;fontColor=#000000;arcSize=11;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-112">
+          <mxGeometry x="140" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-114" value="Other features" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=left;" vertex="1" parent="IpqPK8BsHVQbzXbYYs8c-112">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-115" value="&lt;h3&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;Create a bond:&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-116" value="Submit" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=14;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1810" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpqPK8BsHVQbzXbYYs8c-117" value="show inline error on submit response error&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeColor=none;align=left;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1580" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eC6HQzFBZk6bbT0s4ifH-2" value="Need a page to show user&#39;s bond / redeem record and earnings?" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="500" y="620" width="230" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
